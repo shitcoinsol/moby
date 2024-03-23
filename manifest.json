@@ -1,0 +1,32 @@
+{
+  "theme_color": "#C0C0C0",
+  "background_color": "#C0C0C0",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "Moby",
+  "short_name": "Moby",
+  "description": "The platform enables teams to raise funding from retail investors. The differentiation with existing launchpads is that we focus on facilitating community-driven projects; meaning the public owns 50% of the supply or more.",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
